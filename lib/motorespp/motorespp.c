@@ -78,7 +78,7 @@ int pasoNormal(int IN0, int IN1, int IN2, int IN3, int pasos);{
     }
 }
 
-int sec2 [4][4]{
+int sec2 [8][4]{
         {1, 0, 0, 0},
         {1, 1, 0, 0},
         {0, 1, 0, 0},
